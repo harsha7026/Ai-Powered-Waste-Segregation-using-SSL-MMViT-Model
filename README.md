@@ -493,7 +493,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👥 Authors
 
-Your Name - Your Contact
+Your Name - Harsha S
 
 ## 🙏 Acknowledgments
 
