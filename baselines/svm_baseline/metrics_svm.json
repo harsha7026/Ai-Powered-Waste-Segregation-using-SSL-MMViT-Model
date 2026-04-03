@@ -1,0 +1,47 @@
+{
+    "model": "SVM (RBF kernel)",
+    "mode": "full",
+    "accuracy": 0.7695924764890282,
+    "macro_f1": 0.728562147886042,
+    "weighted_f1": 0.7700783968093992,
+    "evaluation_split": "test",
+    "best_params": {
+        "C": 10,
+        "gamma": 0.0001
+    },
+    "best_val_macro_f1": 0.7673797654356533,
+    "pca_components": 256,
+    "num_samples": 1276,
+    "per_class_metrics": {
+        "glass": {
+            "precision": 0.7039473684210527,
+            "recall": 0.7062706270627063,
+            "f1": 0.7051070840197694,
+            "support": 303
+        },
+        "metal": {
+            "precision": 0.8291666666666667,
+            "recall": 0.7397769516728625,
+            "f1": 0.7819253438113949,
+            "support": 269
+        },
+        "organic": {
+            "precision": 0.49230769230769234,
+            "recall": 0.5614035087719298,
+            "f1": 0.5245901639344263,
+            "support": 57
+        },
+        "paper": {
+            "precision": 0.8204419889502762,
+            "recall": 0.8559077809798271,
+            "f1": 0.8377997179125529,
+            "support": 347
+        },
+        "plastic": {
+            "precision": 0.7868852459016393,
+            "recall": 0.8,
+            "f1": 0.7933884297520661,
+            "support": 300
+        }
+    }
+}

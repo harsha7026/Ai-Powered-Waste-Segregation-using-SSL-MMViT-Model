@@ -1,0 +1,42 @@
+{
+    "model": "DenseNet-121",
+    "accuracy": 0.9067398119122257,
+    "macro_f1": 0.8941055843008625,
+    "weighted_f1": 0.906936677790691,
+    "evaluation_split": "test",
+    "num_samples": 1276,
+    "num_epochs_trained": 8,
+    "best_val_f1": 0.9035945703940937,
+    "per_class_metrics": {
+        "glass": {
+            "precision": 0.8650306748466258,
+            "recall": 0.9306930693069307,
+            "f1": 0.8966613672496025,
+            "support": 303
+        },
+        "metal": {
+            "precision": 0.8795620437956204,
+            "recall": 0.895910780669145,
+            "f1": 0.8876611418047882,
+            "support": 269
+        },
+        "organic": {
+            "precision": 0.8545454545454545,
+            "recall": 0.8245614035087719,
+            "f1": 0.8392857142857144,
+            "support": 57
+        },
+        "paper": {
+            "precision": 0.9702380952380952,
+            "recall": 0.9394812680115274,
+            "f1": 0.9546120058565154,
+            "support": 347
+        },
+        "plastic": {
+            "precision": 0.9157894736842105,
+            "recall": 0.87,
+            "f1": 0.8923076923076922,
+            "support": 300
+        }
+    }
+}

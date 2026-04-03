@@ -1,0 +1,14 @@
+{
+  "data_dir": "C:\\Users\\Nikhil s\\Desktop\\Major Project\\02022026\\waste-segmentation-project\\backend\\data\\train",
+  "seed": 42,
+  "ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "counts": {
+    "train": 5933,
+    "val": 1269,
+    "test": 1276
+  }
+}

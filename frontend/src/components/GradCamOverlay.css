@@ -1,0 +1,23 @@
+.grad-cam-overlay {
+  position: relative;
+  width: 100%;
+  max-width: 520px;
+  margin: 0 auto;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.2);
+}
+
+.grad-cam-base-image,
+.grad-cam-heatmap-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.grad-cam-heatmap-image {
+  position: absolute;
+  inset: 0;
+  opacity: 0.4;
+  mix-blend-mode: screen;
+}

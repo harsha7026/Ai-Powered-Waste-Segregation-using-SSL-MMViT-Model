@@ -1,0 +1,42 @@
+{
+    "model": "SSL + MMViT (ViT-Base)",
+    "accuracy": 0.9373040752351097,
+    "macro_f1": 0.9201288191837742,
+    "weighted_f1": 0.9363905007161178,
+    "evaluation_split": "test",
+    "num_samples": 1276,
+    "checkpoint_epoch": 9,
+    "best_val_f1": 0.9321533923303835,
+    "per_class_metrics": {
+        "glass": {
+            "precision": 0.9182389937106918,
+            "recall": 0.9636963696369637,
+            "f1": 0.9404186795491144,
+            "support": 303
+        },
+        "metal": {
+            "precision": 0.9407407407407408,
+            "recall": 0.9442379182156134,
+            "f1": 0.9424860853432283,
+            "support": 269
+        },
+        "organic": {
+            "precision": 0.9767441860465116,
+            "recall": 0.7368421052631579,
+            "f1": 0.8399999999999999,
+            "support": 57
+        },
+        "paper": {
+            "precision": 0.9346049046321526,
+            "recall": 0.9884726224783862,
+            "f1": 0.9607843137254902,
+            "support": 347
+        },
+        "plastic": {
+            "precision": 0.9532374100719424,
+            "recall": 0.8833333333333333,
+            "f1": 0.9169550173010381,
+            "support": 300
+        }
+    }
+}

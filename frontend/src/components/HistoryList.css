@@ -1,0 +1,77 @@
+.history-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.history-list.empty {
+  color: #999;
+  text-align: center;
+  padding: 2rem;
+}
+
+.history-list h3 {
+  color: #2c3e50;
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.history-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.history-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.history-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+  border-color: #667eea;
+}
+
+.history-thumbnail {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.history-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.history-class {
+  font-weight: 600;
+  color: #2c3e50;
+  text-transform: capitalize;
+  font-size: 0.95rem;
+}
+
+.history-time {
+  font-size: 0.85rem;
+  color: #999;
+}
+
+@media (max-width: 768px) {
+  .history-items {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+  
+  .history-thumbnail {
+    height: 120px;
+  }
+}

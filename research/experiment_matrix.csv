@@ -1,0 +1,8 @@
+experiment_id,model_family,script,mode,epochs,batch_size,lr,patience,split_seed,run_id,status,accuracy,macro_f1,weighted_f1,notes
+EXP001,SVM,baselines/svm_baseline/train_svm.py,fast,,,,,42,1,planned,,,,quick baseline sanity run
+EXP002,ResNet50,baselines/resnet50_baseline/train_resnet50.py,quick,8,32,1e-4,10,42,1,planned,,,,short run for pipeline validation
+EXP003,DenseNet121,baselines/densenet121_baseline/train_densenet121.py,quick,8,32,1e-4,10,42,1,planned,,,,short run for pipeline validation
+EXP004,SSL+MMViT,evaluate_on_shared_test.py,eval_only,,,,,42,1,planned,,,,evaluate existing checkpoint on shared test
+EXP005,SVM,baselines/svm_baseline/train_svm.py,full,,,,,42,1,planned,,,,full baseline run
+EXP006,ResNet50,baselines/resnet50_baseline/train_resnet50.py,full,30,32,1e-4,10,42,1,planned,,,,full baseline run
+EXP007,DenseNet121,baselines/densenet121_baseline/train_densenet121.py,full,30,32,1e-4,10,42,1,planned,,,,full baseline run

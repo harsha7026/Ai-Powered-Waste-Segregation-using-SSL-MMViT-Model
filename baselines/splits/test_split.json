@@ -1,0 +1,6382 @@
+[
+  {
+    "relative_path": "paper/paper_2429.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass354.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "organic/vegetable-waste-infographics.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal_2564.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass491.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass285.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2268.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1758.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass186.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2254.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass110.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_981.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal361.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_236.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal769.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass673.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_613.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper686.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass535.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass403.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_811.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2453.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2079.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2156.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal722.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass330.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2076.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic615.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_328.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass538.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1897.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1513.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_847.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper402.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_247.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1491.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1341.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal566.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper427.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass542.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1862.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/anina-green-queen.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal_1832.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass653.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2240.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic230.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_169.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_813.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic21.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper497.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass300.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass181.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass31.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass240.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2625.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass157.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic390.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass104.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic342.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass230.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1825.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass385.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic710.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_277.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass134.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass102.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic622.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1390.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2208.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_818.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic681.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1495.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass126.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_679.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_305.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_189.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2258.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass148.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2737.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2583.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic175.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_835.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper941.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass356.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_111.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass184.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass164.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2767.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper48.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper632.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic685.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass651.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1594.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1305.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1583.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal18.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic508.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_489.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper661.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper170.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass505.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_834.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "organic/Ostrich-kaiH--621x414LiveMint.JPG.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic696.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2051.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic706.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass687.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2118.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/Food20scraps20into20green20cart.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper746.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass472.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_591.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1274.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal420.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass70.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_630.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass52.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass36.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper754.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2078.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_106.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "organic/iStock-1281092545-1.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/green-glass18.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2677.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_1603.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic485.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2622.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1211.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic734.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1542.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass87.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass187.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass84.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_445.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_742.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass86.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass521.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass474.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_526.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal633.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1487.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass233.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_278.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper879.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2789.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1934.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass662.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1161.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass31.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2484.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_335.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass562.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic212.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2109.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_720.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass415.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass389.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic410.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper597.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass735.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper689.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass329.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass773.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass27.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass256.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_911.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic460.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1653.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1665.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic804.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper885.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass219.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass331.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1259.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_20241.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass354.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper21.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic744.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass96.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1072.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper166.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass214.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass585.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass26.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1290.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1487.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_829.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_975.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1714.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/5908_egg_shells2.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic748.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2433.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2016.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_958.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2585.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1622.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass629.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1213.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass173.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1610.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1219.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal236.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1687.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_746.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass50.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic264.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal604.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper1029.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_680.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_406.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_886.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass335.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal64.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1891.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic824.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic306.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic669.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2674.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper439.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic607.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper266.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper564.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass15.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2344.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_252.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_11.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1103.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1007.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2279.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass617.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_878.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper884.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_20241210_101921.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper680.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper234.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1827.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass246.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper714.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2523.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1257.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal71.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass765.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic514.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper463.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass591.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_239.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass379.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper468.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/shutterstock_344303585.jpeg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/brown-glass466.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal639.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_899.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic341.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal601.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_13.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic812.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_747.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass94.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal670.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/IMG_2699.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/white-glass391.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1793.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass331.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass282.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper534.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper816.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1982.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic298.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic570.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic576.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1240.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2247.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass470.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal663.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper87.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass267.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper415.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2505.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2612.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1699.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass195.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal466.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_1520.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal26.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1160.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper1030.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass573.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass306.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_898.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2408.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/broken-egg-shells.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "organic/BeachBag_IndiaInk_Egg-DSC_1902-1200_800x.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/brown-glass295.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1981.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal405.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2552.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_986.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal175.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic862.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal723.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/Uses-Eggshells-Tips-A138778491.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper997.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2110.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic354.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_304.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2654.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_504.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass150.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_628.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass58.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper741.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_160.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "organic/img_5e753bd9d6549-1.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper549.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2241.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_52.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_704.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass23.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1296.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_147.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass243.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_1304.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal766.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2255.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1032.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1052.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2137.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass288.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal214.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass617.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass417.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2017.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_430.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal581.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1950.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass550.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass255.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2081.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_143.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper217.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass344.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal680.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_1569.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1821.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass449.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic546.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic518.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper422.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal234.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1128.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2343.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/Eco_friendly_bulk_food_shopping_bags_940x.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "organic/johnny-mcclung-702726-unsplash.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper_1351.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass75.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1729.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_622.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass462.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper341.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper694.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/egg-shells-1622966061-5849297.jpeg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper_2063.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal82.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper39.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2004.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic223.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal688.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass534.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1190.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass525.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass503.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2313.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_29.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2663.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass220.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass273.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_753.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal84.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper604.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1448.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2649.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1551.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic251.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2218.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_2479.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_325.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass183.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_231.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass394.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_970.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_1019.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic741.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1942.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/waste-segregation.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper37.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass566.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic828.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1710.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2049.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_262.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_934.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass253.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2605.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper983.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_925.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1546.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass411.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper16.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic534.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1372.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper196.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1084.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass176.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass689.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass501.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_1666.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2703.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper654.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass241.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2224.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal334.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_641.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper553.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_127.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2718.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass92.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1916.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2020.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass528.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass179.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper127.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_707.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal559.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass389.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass72.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1374.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1671.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper826.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1714.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass161.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_616.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2270.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2418.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1696.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass10.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper584.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass403.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_806.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal534.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass353.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper230.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/ways-to-use-eggshells.jpeg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/green-glass119.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_635.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper653.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass289.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper930.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass740.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1750.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1145.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2642.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass390.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2560.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1621.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1597.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2554.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass70.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic132.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1956.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1185.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/698107-hatched-open-poultry-chicks-egg-shells-shell-706502.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic261.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_115.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal221.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass549.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_547.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass90.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_717.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1790.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2140.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/plantbased-ingredient.jpeg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal20.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1615.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal467.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1321.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass704.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper62.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_978.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass154.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal135.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic352.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass592.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper367.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass588.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic835.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper858.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper810.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1512.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass4.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "organic/Organic-waste-to-wealth.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper788.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2171.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1529.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass65.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal702.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_248.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper894.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2169.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1094.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal186.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic317.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_605.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass158.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass524.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_271.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_688.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/fpiikgio_food-waste-istock-650_650x400_05_March_21.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/brown-glass593.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1844.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper181.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper656.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1436.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper260.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1425.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass335.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1798.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2387.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper945.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass574.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass575.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass64.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass280.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal347.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal91.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper647.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1082.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/b24fb5ba50e1c08c306afdb2ff49b1ac8a1ecd03.jpeg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal749.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal288.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1674.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2394.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2157.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass165.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic47.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic439.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper93.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass93.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass317.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass143.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_785.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic475.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_152.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass742.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_638.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1556.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1000.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/csm_Header_Food_Waste_1_7eb721ff62.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper984.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1492.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1645.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1059.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass94.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic811.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal354.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_1516.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic794.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass85.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper989.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal94.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass380.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic815.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_753.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1009.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1070.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass537.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2086.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2152.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal327.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_308.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic389.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2776.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass599.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass587.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass47.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic36.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass768.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2349.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_472.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1976.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal307.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper8.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass546.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal579.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2532.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_687.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_137.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass28.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "organic/walking_on_egg_shells_800_wht.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal_1476.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic823.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2456.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1825.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal433.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass40.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass386.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass515.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic603.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass370.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper929.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper430.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass104.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass538.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2680.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass363.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_238.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1538.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass453.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass394.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass591.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "organic/Zero-Waste-Dishes_825_432_int.png",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal565.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper540.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass39.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic555.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1221.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_520.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic688.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic34.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1606.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_826.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2547.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass22.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "organic/shutterstock_574145911-2.png",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper_2745.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1764.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2475.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper815.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2719.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2510.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper344.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic789.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_942.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper922.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2127.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal651.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass71.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2512.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1640.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass83.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_184.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "organic/eggshell20powder-800x800.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal315.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_996.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic763.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal81.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass584.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass258.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper652.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper970.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1890.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper24.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1598.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper1011.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1659.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic49.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1170.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2046.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal158.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal733.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass158.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_790.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass224.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic19.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass315.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_749.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2406.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper30.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_275.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass402.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass201.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal155.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass491.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1368.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_921.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal494.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper425.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic192.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_990.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "organic/The-color-and-pigment-patterns-of-eggshells-vary-greatly-across-avian-lineages-We.png",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/brown-glass540.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_887.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_404.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1333.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass473.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_420.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass300.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass207.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2614.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass249.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass751.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass342.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass429.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal669.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1596.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass528.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic525.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1603.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_2183.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper531.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper374.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass139.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass244.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_165.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper642.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1355.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass221.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2687.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper406.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_793.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass98.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1419.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic754.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2234.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass223.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2378.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_595.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic371.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2619.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1222.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1365.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1399.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1453.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass476.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass563.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic368.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_455.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic583.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic466.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "organic/13399_2022_2473_Fig1_HTML.png",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal450.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass216.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass8.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass670.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_1428.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic265.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2011.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/81333635.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal166.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass540.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass600.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass447.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_460.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic729.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_303.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic197.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal9.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1407.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1402.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass399.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_431.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper64.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2208.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1116.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1325.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper426.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic590.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass240.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic367.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass22.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass360.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1670.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_854.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1575.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass588.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1661.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass489.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2095.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass225.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass584.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_706.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass250.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_716.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_969.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass15.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal389.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_266.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_1464.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass332.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "organic/eggshell9.png",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal29.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass506.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic690.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass166.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2256.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass749.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic381.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper236.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_37.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass171.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic719.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_715.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_898.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2018.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1620.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass4.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper40.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_786.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1507.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2607.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper610.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_129.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2323.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic348.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_360.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper683.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper176.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper324.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2668.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass145.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass520.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_330.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic659.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2477.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass157.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_482.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper892.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal381.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass217.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2094.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_2076.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2667.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1267.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal344.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal690.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal321.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/0.07700600_1571147766_14.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic657.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass597.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper518.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal86.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic256.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2463.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1379.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal245.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal590.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass271.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic542.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_683.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper603.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper832.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass421.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper794.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass109.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper310.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic834.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2301.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1540.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass489.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal434.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper280.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_166.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1247.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass573.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic375.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic353.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass312.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "organic/food_scraps_pile.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/white-glass392.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2714.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass134.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2163.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic139.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "organic/composting-kitchen-waste.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/green-glass558.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal165.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic153.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_302.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic442.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1908.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal47.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass127.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2450.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/making-faces-on-eggshell.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/brown-glass523.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_232.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1474.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass205.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic639.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper764.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass330.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2600.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_429.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper442.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2582.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_1472.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal533.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper825.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass262.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_894.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass556.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2728.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/idiom-walk-on-eggshells.png",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/brown-glass393.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass59.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1745.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper563.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass207.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal764.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal416.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal243.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass570.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal83.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2422.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass404.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass519.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_253.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2494.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2005.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1554.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2397.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_977.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_17.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_315.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper692.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2561.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_836.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper735.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass453.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper382.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1085.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass641.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass513.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper743.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_522.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1133.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2483.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1717.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass479.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2456.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1927.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1104.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/Website-Thumbnail-food-india-junk-food-eating.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal337.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass90.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2008.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass428.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "organic/which-diet-least-food-waste-lead-image.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic_351.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "organic/FoodWaste.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal_1348.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_512.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass362.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1058.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass399.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper599.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal162.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_1430.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1276.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal219.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass547.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper973.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1389.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic181.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal442.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic9.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass351.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper326.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal176.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal624.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal542.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass501.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal765.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_654.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_132.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass757.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass543.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2617.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/grinding-eggshells-2x.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic379.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic380.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass496.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_90.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1123.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper250.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_197.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1034.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_650.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic506.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1348.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass202.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper1002.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic18.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2308.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/contaminated-plastic-food-packaging.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper843.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper667.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2715.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_908.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic472.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass601.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass278.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass397.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass618.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass484.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper41.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal746.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic221.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic800.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass205.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic387.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic412.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper51.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/-shells-with-warm-water-used-as-a-calcium-supplement-and-popular-in-asia-and.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "metal/metal222.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal257.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal441.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_2071.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2084.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2417.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_915.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2361.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper834.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass304.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic124.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_20240626_161200.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic467.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass49.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal179.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper167.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic826.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic553.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1584.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass638.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper60.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass291.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper691.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2617.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper278.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2245.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1260.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1802.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1310.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1582.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/001_41_IMG_WEB_191204228_Loop-848x565.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/brown-glass510.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_1547.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "organic/DuPont-s-clean-label-food-waste-innovation-for-plant-based-products.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic739.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal748.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_286.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal734.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper67.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper451.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_1686.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal329.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_1901.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal419.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_2115.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal146.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal683.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper1045.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_981.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic701.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_554.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass756.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_2371.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper77.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/190726-compost-al-1416.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic675.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1604.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1238.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal250.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass227.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal611.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_444.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic143.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper79.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass414.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "organic/compost-them-1644793139.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper_1049.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass38.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_2264.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2630.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_583.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2204.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_240.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic140.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/brown-glass111.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_1451.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal348.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic6.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper355.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_2263.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_155.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1042.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper252.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1667.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic282.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1373.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "organic/Pic2-7.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "organic/food-scraps-flyer-1-1.png",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic574.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic687.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1420.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2306.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal217.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_94.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal757.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper1043.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_939.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass66.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic303.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal678.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper410.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic199.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper888.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass138.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "organic/bc914a33536d6cc8f833b89843d63a9c.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic_386.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal203.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic114.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass235.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal24.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper974.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass292.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper148.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/green-glass541.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic38.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal351.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass774.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper118.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass168.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic134.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass221.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper_1241.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic445.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal625.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic464.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2637.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass86.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic633.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_664.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/green-glass326.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass381.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1675.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass252.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1643.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_337.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1921.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass604.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal739.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_2326.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic53.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic63.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal324.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2759.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_412.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2777.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_133.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper254.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass12.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass132.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_740.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_225.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_409.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal128.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass492.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic803.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2121.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass486.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper191.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass305.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper387.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1875.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal430.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_1443.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1649.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic257.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper33.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic480.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2607.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_1895.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass1.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1795.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal336.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal643.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal330.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper606.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2171.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_1126.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "glass/white-glass574.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass771.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper295.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_738.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1791.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic858.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic172.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic661.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_890.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2132.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper175.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic714.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1703.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1624.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic_1557.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2108.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1569.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal511.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic296.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_982.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic_1370.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic260.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_1015.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2628.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass321.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic773.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "plastic/plastic372.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "organic/FB_IMG_1604548763726.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic450.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_414.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass257.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1800.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2059.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_2395.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/egetables-and-fruits-in-a-huge-container-in-a-rubbish-bin-heap-of-2203815095.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "glass/brown-glass145.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/white-glass386.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal_1482.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/2020_04_lead_eggshells-on-table_shutterstock_201335783.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper_2604.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper302.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/food-waste-14654962.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic547.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1255.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "organic/1622878634889.png",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "organic/food-scraps-recipes.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper154.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "plastic/plastic732.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper_2546.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_2299.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass226.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "organic/fight-food-waste-1533137513976-1533137515977.jpg",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "plastic/plastic_442.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_543.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/green-glass330.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/green-glass530.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_954.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1137.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic2.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2317.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "paper/paper_1166.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper_803.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper376.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "organic/sustainability-12-01976-g001.png",
+    "label": 2,
+    "class_name": "organic"
+  },
+  {
+    "relative_path": "paper/paper574.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal_455.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal_2124.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_505.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "paper/paper397.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/brown-glass554.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper158.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "glass/white-glass246.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "metal/metal710.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "metal/metal393.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "plastic/plastic_91.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_2633.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass631.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "paper/paper673.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper799.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "paper/paper708.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "relative_path": "metal/metal469.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/white-glass619.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "plastic/plastic_991.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "relative_path": "metal/metal_1803.jpg",
+    "label": 1,
+    "class_name": "metal"
+  },
+  {
+    "relative_path": "glass/brown-glass606.jpg",
+    "label": 0,
+    "class_name": "glass"
+  },
+  {
+    "relative_path": "glass/brown-glass285.jpg",
+    "label": 0,
+    "class_name": "glass"
+  }
+]

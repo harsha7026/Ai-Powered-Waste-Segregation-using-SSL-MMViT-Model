@@ -1,0 +1,111 @@
+.dashboard-card {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.dashboard-card h2 {
+  color: #2c3e50;
+}
+
+.dashboard-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.dashboard-section h3 {
+  color: #34495e;
+}
+
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+}
+
+.summary-item {
+  background: #f4f6fc;
+  border-radius: 10px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.summary-label {
+  color: #566573;
+  font-size: 0.9rem;
+}
+
+.summary-value {
+  color: #1f3a5f;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.summary-small {
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.distribution-chart {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.chart-row {
+  display: grid;
+  grid-template-columns: 90px 1fr 44px;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.chart-label {
+  text-transform: capitalize;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.chart-bar-track {
+  width: 100%;
+  height: 16px;
+  background: #e4e9f5;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.chart-bar {
+  height: 100%;
+  background: linear-gradient(90deg, #36a2eb 0%, #4bc0c0 100%);
+  border-radius: 999px;
+}
+
+.chart-value {
+  text-align: right;
+  color: #2c3e50;
+  font-weight: 700;
+}
+
+.dashboard-error {
+  color: #c62828;
+  background: #ffebee;
+  border-radius: 8px;
+  padding: 0.75rem;
+}
+
+@media (max-width: 768px) {
+  .dashboard-card {
+    padding: 1rem;
+  }
+
+  .chart-row {
+    grid-template-columns: 80px 1fr 36px;
+  }
+}
